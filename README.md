@@ -56,8 +56,8 @@ Queremos que este sea un espacio seguro y constructivo para todos.
 
 ### 🔗 Enlaces de Interés
 
-* **Aplicación Web:** [Enlace a tu App Desplegada - Próximamente]
-* **Contacto Directo:** [Tu Email o Twitter/X]
+* **Aplicación Web:** [Próximamente]
+* **Contacto Directo:** [[X](https://x.com/brayanjse3)]
 
 ---
 
