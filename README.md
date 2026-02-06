@@ -1,8 +1,3 @@
-# --- INSTRUCCIONES ---
-# Copia todo el texto que está ENTRE las comillas triples (""") de abajo.
-# Ese es tu código Markdown puro.
-
-readme_content = """
 # 🚀 Visual DB Builder - Issue Tracker
 
 ¡Bienvenido al centro de seguimiento de **Visual DB Builder**!
@@ -67,4 +62,3 @@ Queremos que este sea un espacio seguro y constructivo para todos.
 ---
 
 *¡Gracias por ayudar a hacer de Visual DB Builder una herramienta mejor!*
-"""
